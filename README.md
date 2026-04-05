@@ -26,33 +26,41 @@ https://prasadtechintelugu.com/
 
 ---
 
+## 🎯 Objective
+
+- Analyze a public website for security weaknesses  
+- Classify risks (Low / Medium / High)  
+- Explain issues clearly in simple language  
+- Suggest practical remediation steps  
+- Present findings in a professional report  
+
+---
+
 ## ⚠️ Scope & Ethics
 
 This assessment follows a **read-only (passive) approach**.
 
 ### ✅ Allowed
 - Public-facing pages analysis  
-- HTTP header inspection  
-- Cookie analysis  
+- Header and cookie inspection  
 - Port scanning (non-intrusive)  
-- Configuration review  
+- Configuration analysis  
 
 ### ❌ Not Allowed
-- Exploitation of vulnerabilities  
-- Login bypass or authentication testing  
-- Brute force attacks  
+- Exploitation or attacks  
+- Login bypass or brute force  
 - Denial-of-Service (DoS)  
-- Any activity that may harm the website  
+- Any harmful activity  
 
-This project demonstrates **security auditing, not hacking**.
+> This project demonstrates **security auditing, not hacking**
 
 ---
 
 ## 🛠️ Tools Used
 
-- Nmap – Port scanning & service detection  
-- Browser Developer Tools – Header & cookie analysis  
-- Canva – Report design  
+- **Nmap** – Port scanning & service detection  
+- **Browser DevTools** – Header & cookie analysis  
+- **Canva** – Report design  
 
 ---
 
@@ -62,7 +70,7 @@ The assessment was conducted using passive techniques:
 
 - Nmap scan to identify open ports and services  
 - Browser DevTools to inspect headers and cookies  
-- Manual observation of public endpoints  
+- Manual analysis of public endpoints  
 
 No intrusive testing or exploitation was performed.
 
@@ -72,10 +80,10 @@ No intrusive testing or exploitation was performed.
 
 | Risk Level | Count |
 |-----------|------|
-| High Risk | 2 |
-| Medium Risk | 4 |
-| Low Risk | 4 |
-| Low–Medium | 1 |
+| 🔴 High Risk | 2 |
+| 🟠 Medium Risk | 4 |
+| 🟢 Low Risk | 4 |
+| 🟡 Low–Medium | 1 |
 
 ---
 
@@ -102,20 +110,20 @@ No intrusive testing or exploitation was performed.
 
 ---
 
-## 📄 Report Preview
+## 📄 Vulnerability Report Preview
 
 [![Vulnerability Report Preview](preview.png)](./VulnerabilityReport.pdf)
 
-📥 Click the image above to view the full report
+📥 Click the preview to open the full report
 
 ---
 
 ## 📸 Evidence
 
-### Nmap Scan
+### 🔍 Nmap Scan Result
 ![Nmap Scan](nmap_scan.png)
 
-### Header Analysis
+### 🌐 Header Analysis
 ![Header Analysis](headers_analysis.png)
 
 ---
@@ -130,33 +138,63 @@ No intrusive testing or exploitation was performed.
 
 ---
 
-## 💡 Learning Outcome
+## 🧠 About the Task
 
-- Learned how to perform ethical vulnerability assessment  
-- Identified real-world security weaknesses  
-- Practiced risk classification and reporting  
-- Developed a security consultant mindset  
+Every business today owns a website — but many are not secure.
+
+Common issues include:
+- Outdated frameworks or plugins  
+- Misconfigured security headers  
+- Exposure of sensitive information  
+
+Clients typically ask:
+- Is my website safe?  
+- What are the risks?  
+- What should be fixed first?  
+
+This task focuses on answering these questions through **ethical security analysis**.
 
 ---
 
-## 🌟 About the Task
+## 📤 Final Deliverables
+
+- Vulnerability Assessment Report (PDF)  
+- Supporting Evidence (Screenshots)  
+- GitHub Repository with:
+  - Report  
+  - Evidence  
+  - README  
+
+---
+
+## 💡 Learning Outcome
+
+- Performed ethical vulnerability assessment  
+- Identified real-world misconfigurations  
+- Practiced risk classification  
+- Developed security consulting mindset  
+
+---
+
+## 🌟 About Future Interns
 
 Cyber Security Task 1 (2026)  
 By Future Interns  
 
-https://www.linkedin.com/company/future-interns
+🔗 https://www.linkedin.com/company/future-interns
 
 ---
 
 ## 👨‍💻 Author
 
-Deekshith G  
+**Deekshith G**
 
 ---
 
 ## ⚠️ Disclaimer
 
 This project is for educational purposes only.  
+All analysis was conducted using passive techniques.  
 No exploitation or harmful activity was performed.
 
 ---
