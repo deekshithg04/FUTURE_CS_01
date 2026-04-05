@@ -3,6 +3,13 @@
 
 ---
 
+## 📄 Quick Access
+
+👉 **View Full Report:**  
+[Open Vulnerability Report](./VulnerabilityReport.pdf)
+
+---
+
 ## 📌 Overview
 
 This repository contains a **Vulnerability Assessment Report** conducted as part of **Cyber Security Task 1 by Future Interns**.
@@ -95,32 +102,31 @@ No intrusive testing or exploitation was performed.
 
 ---
 
-## 📂 Repository Contents
+## 📄 Report Preview
 
-- VulnerabilityReport.pdf  
-- nmap_scan.png  
-- headers.txt  
-- ports.txt  
-- README.md  
+[![Vulnerability Report Preview](preview.png)](./VulnerabilityReport.pdf)
+
+📥 Click the image above to view the full report
 
 ---
 
 ## 📸 Evidence
 
-This repository includes:
+### Nmap Scan
+![Nmap Scan](nmap_scan.png)
 
-- Nmap scan results (text file + screenshot)  
-- HTTP header analysis (text file)  
-
-All findings are based on this collected evidence.
+### Header Analysis
+![Header Analysis](headers_analysis.png)
 
 ---
 
-## 📄 Report
+## 📂 Repository Contents
 
-The complete report is available in:
-
-**VulnerabilityReport.pdf**
+- VulnerabilityReport.pdf  
+- preview.png  
+- nmap_scan.png  
+- headers_analysis.png  
+- README.md  
 
 ---
 
