@@ -30,9 +30,9 @@ https://prasadtechintelugu.com/
 
 - Analyze a public website for security weaknesses  
 - Classify risks (Low / Medium / High)  
-- Explain issues clearly in simple language  
+- Explain issues clearly  
 - Suggest practical remediation steps  
-- Present findings in a professional report  
+- Present findings professionally  
 
 ---
 
@@ -58,9 +58,9 @@ This assessment follows a **read-only (passive) approach**.
 
 ## 🛠️ Tools Used
 
-- **Nmap** – Port scanning & service detection  
-- **Browser DevTools** – Header & cookie analysis  
-- **Canva** – Report design  
+- Nmap – Port scanning & service detection  
+- Browser DevTools – Header & cookie analysis  
+- Canva – Report design  
 
 ---
 
@@ -70,7 +70,7 @@ The assessment was conducted using passive techniques:
 
 - Nmap scan to identify open ports and services  
 - Browser DevTools to inspect headers and cookies  
-- Manual analysis of public endpoints  
+- Manual observation of public endpoints  
 
 No intrusive testing or exploitation was performed.
 
@@ -110,17 +110,17 @@ No intrusive testing or exploitation was performed.
 
 ---
 
-## 📄 Vulnerability Report Preview
+## 📄 Report
 
-[![Vulnerability Report Preview](preview.png)](./VulnerabilityReport.pdf)
+👉 Click below to view the full report:
 
-📥 Click the preview to open the full report
+[Open Vulnerability Report](./VulnerabilityReport.pdf)
 
 ---
 
 ## 📸 Evidence
 
-### 🔍 Nmap Scan Result
+### 🔍 Nmap Scan
 ![Nmap Scan](nmap_scan.png)
 
 ### 🌐 Header Analysis
@@ -131,7 +131,6 @@ No intrusive testing or exploitation was performed.
 ## 📂 Repository Contents
 
 - VulnerabilityReport.pdf  
-- preview.png  
 - nmap_scan.png  
 - headers_analysis.png  
 - README.md  
@@ -140,19 +139,14 @@ No intrusive testing or exploitation was performed.
 
 ## 🧠 About the Task
 
-Every business today owns a website — but many are not secure.
+Every business today owns a website, but many are not secure.
 
 Common issues include:
-- Outdated frameworks or plugins  
 - Misconfigured security headers  
-- Exposure of sensitive information  
+- Exposure of services  
+- Information leakage  
 
-Clients typically ask:
-- Is my website safe?  
-- What are the risks?  
-- What should be fixed first?  
-
-This task focuses on answering these questions through **ethical security analysis**.
+This task focuses on identifying such issues using ethical security analysis.
 
 ---
 
@@ -160,17 +154,14 @@ This task focuses on answering these questions through **ethical security analys
 
 - Vulnerability Assessment Report (PDF)  
 - Supporting Evidence (Screenshots)  
-- GitHub Repository with:
-  - Report  
-  - Evidence  
-  - README  
+- GitHub Repository  
 
 ---
 
 ## 💡 Learning Outcome
 
-- Performed ethical vulnerability assessment  
-- Identified real-world misconfigurations  
+- Learned ethical vulnerability assessment  
+- Identified real-world security issues  
 - Practiced risk classification  
 - Developed security consulting mindset  
 
@@ -181,7 +172,7 @@ This task focuses on answering these questions through **ethical security analys
 Cyber Security Task 1 (2026)  
 By Future Interns  
 
-🔗 https://www.linkedin.com/company/future-interns
+https://www.linkedin.com/company/future-interns
 
 ---
 
@@ -194,7 +185,6 @@ By Future Interns
 ## ⚠️ Disclaimer
 
 This project is for educational purposes only.  
-All analysis was conducted using passive techniques.  
 No exploitation or harmful activity was performed.
 
 ---
