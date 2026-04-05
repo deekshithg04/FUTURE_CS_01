@@ -1,14 +1,7 @@
 # 🔐 Vulnerability Assessment Report  
 ### Cyber Security Task 1 (2026) – Future Interns
 
----
 
-## 📄 Quick Access
-
-👉 **View Full Report:**  
-[Open Vulnerability Report](./VulnerabilityReport.pdf)
-
----
 
 ## 📌 Overview
 
